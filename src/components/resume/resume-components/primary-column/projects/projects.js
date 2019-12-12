@@ -21,7 +21,10 @@ const Projects = () => {
       </div>
       <div>
         <h2>
-          This Resume — <a href="https://sundown-snog.netlify.com">Code Here</a>
+          This Resume —{" "}
+          <a href="https://github.com/ChanceTheHacker/canny-resume">
+            Code Here
+          </a>
         </h2>
         <p>
           I built this resume from the ground up with gatsby using default
