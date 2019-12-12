@@ -11,7 +11,13 @@ const Projects = () => {
       <div>
         <h2>
           Soft Skills Blog —{" "}
-          <a href="https://www.chancethehacker.com">Chance The Hacker</a>
+          <a
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            href="https://www.chancethehacker.com"
+          >
+            Chance The Hacker
+          </a>
         </h2>
         <p>
           This is my personal passion project. Built from a gatsby blog starter
@@ -22,7 +28,11 @@ const Projects = () => {
       <div>
         <h2>
           This Resume —{" "}
-          <a href="https://github.com/ChanceTheHacker/canny-resume">
+          <a
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            href="https://github.com/ChanceTheHacker/canny-resume"
+          >
             Code Here
           </a>
         </h2>
@@ -34,7 +44,13 @@ const Projects = () => {
       <div>
         <h2>
           Sundown Snog (Game) —{" "}
-          <a href="https://sundown-snog.netlify.com">Sundown Snog</a>
+          <a
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            href="https://sundown-snog.netlify.com"
+          >
+            Sundown Snog
+          </a>
         </h2>
         <p>
           This is one of the first things I ever built. I'm not proud of the UI,
