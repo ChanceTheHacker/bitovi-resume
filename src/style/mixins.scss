@@ -8,7 +8,11 @@
 @mixin flex-center-horizontal {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-  flex-wrap: wrap;
+
+}
+
+@mixin grid() {
+  display: grid;
 }

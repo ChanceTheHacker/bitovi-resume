@@ -1,0 +1,8 @@
+@import "../../style/index.scss";
+
+.container {
+  @include flex-center;
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+}
