@@ -11,7 +11,9 @@ const style = {
 const Title = () => {
   return (
     <div style={style}>
-      <h1 style={{ ...flexCenter, width: "100%" }}>William Peragine</h1>
+      <h1 style={{ ...flexCenter, width: "100%" }}>
+        William "<span style={{ color: `#ff5252` }}>Chance</span>" Peragine
+      </h1>
       <h4 style={{ ...flexCenter, width: "100%" }}>
         Web Developer & Ethical Hacker
       </h4>
