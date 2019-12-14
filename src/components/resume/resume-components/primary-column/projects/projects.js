@@ -31,7 +31,7 @@ const Projects = () => {
           <a
             target="_blank"
             rel="nofollow noopener noreferrer"
-            href="https://github.com/ChanceTheHacker/canny-resume"
+            href="https://github.com/ChanceTheHacker/bitovi-resume"
           >
             Code Here
           </a>
