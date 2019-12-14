@@ -43,6 +43,24 @@ const Projects = () => {
       </div>
       <div>
         <h2>
+          Soggy Brimstone (Award Winning Short Fiction) —{" "}
+          <a
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+            href="https://docs.google.com/document/d/1Yti8At0gdgYge-NG0q0EIy-J9bkyOpOfWtf6j71-ftk/edit?usp=sharing"
+          >
+            Soggy Brimstone Manuscript
+          </a>
+        </h2>
+        <p>
+          This is a short story I wrote. I entered it in what most consider to
+          be the most prestigious writing competetion for fiction Authors
+          (Writer's of the Future). I was awarded an Honorable Mention, which is
+          a highly sought after accolade.
+        </p>
+      </div>
+      <div>
+        <h2>
           Sundown Snog (Game) —{" "}
           <a
             target="_blank"
